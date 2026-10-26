@@ -2,7 +2,7 @@
 
 **Software developer · Founder of [AudioZem](https://audiozem.com)**
 
-I build web products and AI integrations, from the user interface and backend APIs to background processing and deployment. I recently completed my M.S. in Computer Science at Florida Atlantic University.
+I build web products and AI integrations, from the user interface and backend APIs to background processing and deployment.
 
 ## What I'm working on
 

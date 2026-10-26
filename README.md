@@ -36,7 +36,7 @@ A public overview of AudioZem's architecture, plus a standalone TypeScript examp
 ## Background
 
 - **M.S. in Computer Science** — Florida Atlantic University.
-- **Research Assistant, FAU** — worked on software implementation, APIs, data models, testing, and debugging.
+- **Fullstack developer, PACE CLUB - FAU ** — worked on software implementation, APIs, data models, testing, and debugging.
 - **Founder and developer, AudioZem** — building and supporting a product end to end.
 
 ## Let's connect
